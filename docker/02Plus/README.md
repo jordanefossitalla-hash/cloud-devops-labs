@@ -40,10 +40,3 @@ Réponse attendue :
 {"status":"ok"}
 ```
 
-## Ce que j’ai appris
-Ce niveau m’a appris à utiliser une image plus compacte et à adapter l’installation système à Alpine (`apk`), tout en gardant le même comportement applicatif côté API.
-
-## Pistes d’amélioration
-- Exécuter le service avec un utilisateur non-root
-- Épingler les versions des dépendances Python
-- Ajouter un `HEALTHCHECK` Docker
